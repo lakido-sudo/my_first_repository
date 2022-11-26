@@ -3,5 +3,7 @@
 This text added from browser.
 
 # Изображение
-Это изображение в формате jpeg
+Это изображение в формате jpeg.
+
+This image in jpeg
 ![tea](tea.jpg)
