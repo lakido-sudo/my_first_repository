@@ -4,6 +4,7 @@ This text added from browser.
 
 # Изображение
 Это изображение в формате jpeg
+This image in jpeg
 ![tea](tea.jpg)
 
 А это другое изображение в том же формате
